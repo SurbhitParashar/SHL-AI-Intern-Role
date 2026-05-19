@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Java 8",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8/",
+    "test_type": "K",
+    "description": "Measures practical Java programming knowledge for software development roles, including core language concepts and object-oriented coding.",
+    "skills": ["Java", "Programming", "Object-oriented development", "Backend development"],
+    "job_family": "Technology",
+    "duration_minutes": 30,
+    "remote_testing": true
+  },
+  {
+    "name": "Java 8 New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "test_type": "K",
+    "description": "Assesses updated Java skills for developer selection with emphasis on modern syntax, APIs, and applied programming knowledge.",
+    "skills": ["Java", "Software engineering", "Coding", "Backend development"],
+    "job_family": "Technology",
+    "duration_minutes": 35,
+    "remote_testing": true
+  },
+  {
+    "name": "Core Java",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java/",
+    "test_type": "K",
+    "description": "Evaluates foundational Java knowledge needed for application development and maintenance roles.",
+    "skills": ["Java", "Programming fundamentals", "Application development"],
+    "job_family": "Technology",
+    "duration_minutes": 30,
+    "remote_testing": true
+  },
+  {
+    "name": "Python 3",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-3/",
+    "test_type": "K",
+    "description": "Measures Python programming knowledge for software engineering, automation, and data-oriented roles.",
+    "skills": ["Python", "Programming", "Automation", "Data processing"],
+    "job_family": "Technology",
+    "duration_minutes": 30,
+    "remote_testing": true
+  },
+  {
+    "name": "SQL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql/",
+    "test_type": "K",
+    "description": "Assesses SQL querying, joins, filtering, aggregation, and database knowledge for data and application roles.",
+    "skills": ["SQL", "Databases", "Data analysis", "Querying"],
+    "job_family": "Technology",
+    "duration_minutes": 25,
+    "remote_testing": true
+  },
+  {
+    "name": "JavaScript",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript/",
+    "test_type": "K",
+    "description": "Evaluates JavaScript knowledge for front-end and full-stack developer roles.",
+    "skills": ["JavaScript", "Web development", "Frontend", "Programming"],
+    "job_family": "Technology",
+    "duration_minutes": 30,
+    "remote_testing": true
+  },
+  {
+    "name": "Microsoft Excel",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel/",
+    "test_type": "K",
+    "description": "Measures spreadsheet skills including formulas, data handling, charts, and common business analysis tasks.",
+    "skills": ["Excel", "Spreadsheets", "Data analysis", "Business reporting"],
+    "job_family": "Administrative",
+    "duration_minutes": 25,
+    "remote_testing": true
+  },
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32r/",
+    "test_type": "P",
+    "description": "Occupational Personality Questionnaire that describes preferred workplace behavior, interpersonal style, thinking style, and motivation.",
+    "skills": ["Personality", "Workplace behavior", "Collaboration", "Motivation"],
+    "job_family": "General",
+    "duration_minutes": 25,
+    "remote_testing": true
+  },
+  {
+    "name": "Motivation Questionnaire MQ",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mq/",
+    "test_type": "P",
+    "description": "Explores work motivation and drivers that influence engagement, preferences, and fit with role conditions.",
+    "skills": ["Motivation", "Engagement", "Work preferences", "Personality"],
+    "job_family": "General",
+    "duration_minutes": 25,
+    "remote_testing": true
+  },
+  {
+    "name": "Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-inductive-reasoning/",
+    "test_type": "A",
+    "description": "Measures the ability to identify patterns, infer rules, and solve unfamiliar problems using non-verbal reasoning.",
+    "skills": ["Inductive reasoning", "Problem solving", "Cognitive ability"],
+    "job_family": "General",
+    "duration_minutes": 18,
+    "remote_testing": true,
+    "adaptive": true
+  },
+  {
+    "name": "Verify Interactive - Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-deductive-reasoning/",
+    "test_type": "A",
+    "description": "Assesses logical reasoning and the ability to draw valid conclusions from rules and information.",
+    "skills": ["Deductive reasoning", "Logic", "Problem solving"],
+    "job_family": "General",
+    "duration_minutes": 18,
+    "remote_testing": true,
+    "adaptive": true
+  },
+  {
+    "name": "Verify Interactive - Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-numerical-reasoning/",
+    "test_type": "A",
+    "description": "Evaluates numerical reasoning, interpretation of data, and ability to work with quantitative business information.",
+    "skills": ["Numerical reasoning", "Data interpretation", "Analysis"],
+    "job_family": "General",
+    "duration_minutes": 18,
+    "remote_testing": true,
+    "adaptive": true
+  },
+  {
+    "name": "Verify Interactive - Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-verbal-reasoning/",
+    "test_type": "A",
+    "description": "Measures the ability to understand written information, evaluate arguments, and draw conclusions from text.",
+    "skills": ["Verbal reasoning", "Reading comprehension", "Critical thinking"],
+    "job_family": "General",
+    "duration_minutes": 18,
+    "remote_testing": true,
+    "adaptive": true
+  },
+  {
+    "name": "General Ability Screen",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-ability-screen/",
+    "test_type": "A",
+    "description": "A broad cognitive ability screen covering reasoning skills useful for early-career and general selection contexts.",
+    "skills": ["General mental ability", "Reasoning", "Problem solving", "Graduate selection"],
+    "job_family": "General",
+    "duration_minutes": 36,
+    "remote_testing": true
+  },
+  {
+    "name": "Graduate Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-reasoning/",
+    "test_type": "A",
+    "description": "Measures reasoning ability for graduate and early-career roles where learning agility and problem solving matter.",
+    "skills": ["Graduate selection", "Reasoning", "Learning agility"],
+    "job_family": "Graduate",
+    "duration_minutes": 30,
+    "remote_testing": true
+  },
+  {
+    "name": "Situational Judgement Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/situational-judgement-test/",
+    "test_type": "B",
+    "description": "Presents workplace scenarios and evaluates judgment, prioritization, and likely behavior in job-relevant situations.",
+    "skills": ["Situational judgment", "Decision making", "Workplace behavior"],
+    "job_family": "General",
+    "duration_minutes": 25,
+    "remote_testing": true
+  },
+  {
+    "name": "Customer Service Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-situational-judgement/",
+    "test_type": "B",
+    "description": "Evaluates judgment in customer-facing scenarios, including service orientation and problem resolution.",
+    "skills": ["Customer service", "Situational judgment", "Communication"],
+    "job_family": "Customer Service",
+    "duration_minutes": 25,
+    "remote_testing": true
+  },
+  {
+    "name": "Sales Potential",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-potential/",
+    "test_type": "P",
+    "description": "Assesses behavioral tendencies and motivations linked to sales effectiveness and customer influence.",
+    "skills": ["Sales", "Influencing", "Resilience", "Customer focus"],
+    "job_family": "Sales",
+    "duration_minutes": 25,
+    "remote_testing": true
+  },
+  {
+    "name": "Sales Skills",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-skills/",
+    "test_type": "K",
+    "description": "Measures applied sales knowledge including prospecting, qualifying, handling objections, and closing.",
+    "skills": ["Sales", "Prospecting", "Negotiation", "Account management"],
+    "job_family": "Sales",
+    "duration_minutes": 30,
+    "remote_testing": true
+  },
+  {
+    "name": "Contact Center Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-simulation/",
+    "test_type": "S",
+    "description": "Work-sample style simulation for contact centre roles, evaluating customer interaction, accuracy, and multitasking.",
+    "skills": ["Customer service", "Call center", "Multitasking", "Communication"],
+    "job_family": "Customer Service",
+    "duration_minutes": 35,
+    "remote_testing": true
+  },
+  {
+    "name": "Administrative Professional - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "test_type": "K",
+    "description": "Assesses administrative knowledge, attention to detail, office procedures, and common workplace tasks.",
+    "skills": ["Administration", "Attention to detail", "Office skills"],
+    "job_family": "Administrative",
+    "duration_minutes": 25,
+    "remote_testing": true
+  },
+  {
+    "name": "Attention to Detail",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/attention-to-detail/",
+    "test_type": "K",
+    "description": "Measures accuracy, checking ability, and careful processing of written or numerical information.",
+    "skills": ["Attention to detail", "Accuracy", "Checking"],
+    "job_family": "Administrative",
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Financial Professional",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional/",
+    "test_type": "K",
+    "description": "Evaluates finance and accounting knowledge relevant to professional finance roles.",
+    "skills": ["Finance", "Accounting", "Financial analysis"],
+    "job_family": "Finance",
+    "duration_minutes": 35,
+    "remote_testing": true
+  },
+  {
+    "name": "Accounting and Bookkeeping",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounting-and-bookkeeping/",
+    "test_type": "K",
+    "description": "Measures practical accounting, bookkeeping, ledger, and financial-record knowledge.",
+    "skills": ["Accounting", "Bookkeeping", "Ledger", "Finance"],
+    "job_family": "Finance",
+    "duration_minutes": 30,
+    "remote_testing": true
+  },
+  {
+    "name": "Management Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/management-scenarios/",
+    "test_type": "S",
+    "description": "Presents management situations and assesses judgment, prioritization, delegation, and people leadership choices.",
+    "skills": ["Management", "Leadership", "Decision making", "People management"],
+    "job_family": "Management",
+    "duration_minutes": 35,
+    "remote_testing": true
+  },
+  {
+    "name": "Leadership Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-report/",
+    "test_type": "P",
+    "description": "Uses personality-based evidence to describe likely leadership style, strengths, and development risks.",
+    "skills": ["Leadership", "Personality", "Management", "Development"],
+    "job_family": "Management",
+    "duration_minutes": 25,
+    "remote_testing": true
+  },
+  {
+    "name": "Microsoft Word",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-word/",
+    "test_type": "K",
+    "description": "Assesses common word-processing skills for administrative and office roles.",
+    "skills": ["Microsoft Word", "Office skills", "Documents"],
+    "job_family": "Administrative",
+    "duration_minutes": 20,
+    "remote_testing": true
+  },
+  {
+    "name": "Data Entry",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry/",
+    "test_type": "K",
+    "description": "Measures speed and accuracy for entering, checking, and processing structured information.",
+    "skills": ["Data entry", "Accuracy", "Attention to detail"],
+    "job_family": "Administrative",
+    "duration_minutes": 20,
+    "remote_testing": true
+  },
+  {
+    "name": "Coding Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/coding-simulation/",
+    "test_type": "S",
+    "description": "A work-sample coding assessment for software engineers, focused on solving programming problems in a realistic environment.",
+    "skills": ["Coding", "Software engineering", "Problem solving", "Programming"],
+    "job_family": "Technology",
+    "duration_minutes": 60,
+    "remote_testing": true
+  },
+  {
+    "name": "Computer Science Fundamentals",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-fundamentals/",
+    "test_type": "K",
+    "description": "Assesses core computer science concepts such as algorithms, data structures, complexity, and programming fundamentals.",
+    "skills": ["Computer science", "Algorithms", "Data structures", "Programming"],
+    "job_family": "Technology",
+    "duration_minutes": 35,
+    "remote_testing": true
+  }
+]
